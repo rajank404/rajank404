@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Software+Developer;I'm+Full Stack+Developer;"></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Software+Developer;I'm+Frontend+Developer;"></p>
 
 <h3 align="center"> Developer | Machine Learning | Computer Science Engineer</h3>
 <!-- 
